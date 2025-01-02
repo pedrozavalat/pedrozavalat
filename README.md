@@ -4,5 +4,4 @@
 - 🌐 Puedes visitar mi página web para conocer más sobre mí y mis proyectos:  
   **[Pedro Zavala - Inicio](https://pedrozavalat.github.io)**  
 
-¡Gracias por visitar mi perfil! 🚀
 
