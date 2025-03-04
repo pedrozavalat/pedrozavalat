@@ -1,7 +1,7 @@
-# ¡Hola! 👋
-🌱 Actualmente estoy interesado en proyectos de desarrollo web y ciencias de datos.
+# Hi 👋
+🌱 Currently interested in web development projects, big data and data science.
 
-🌐 Puedes visitar mi página web para conocer más sobre mí y mis proyectos:  
+🌐 You can find out more about me on my personal website:
 
    **[Pedro Zavala - Inicio](https://pedrozavalat.github.io)**  
 
