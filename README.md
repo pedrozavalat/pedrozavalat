@@ -1,18 +1,16 @@
 <h1 align="center"><b>Hi there! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  I'm passionate about building cool stuff with <b>IoT</b>, digging into <b>data science & analytics</b>, and creating things for the <b>web</b>.  
+  I'm interested about building cool stuff withIoT, digging into data science & analytics, and web development.  
 </p>
 
 <p align="center">
-  🌐 Check out my website: <a href="https://pedrozavalat.github.io/">pedrozavalat.github.io</a>
+  Check out my website: <a href="https://pedrozavalat.github.io/">pedrozavalat.github.io</a>
 </p>
 
 ---
 
 ## 🚀 Tech Stack & Tools
-
-### 🧠 Data Science & Big Data  
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -46,15 +44,14 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
-
-📫 Feel free to reach out via email:
+  Feel free to reach out via email:
 
 <pre>
-📧 pedropablozavalat@uc.cl
-📨 pedropablozavalatejos@gmail.com
+pedropablozavalat@uc.cl
+pedropablozavalatejos@gmail.com
 </pre>
 
 </div>
