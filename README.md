@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi there! </b></h1>
 
 <p align="center">
-  I'm interested about building cool stuff withIoT, digging into data science & analytics, and web development.  
+  I'm interested about building cool stuff with IoT, digging into data science & analytics, and web development.  
 </p>
 
 <p align="center">
