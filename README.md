@@ -20,9 +20,9 @@
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyai&logoColor=green)
   ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### ✨ Developer tools
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
