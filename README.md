@@ -3,11 +3,11 @@
 <p>
   Currently seeking opportunities to participate in projects related to these areas 🌱:
   <br><br>
-  💡  <b>IoT (Internet of Things)</b>
+  🧠 <b>Machine Learning</b>
   <br>
-  📊  <b>Data Science & Data Processing</b>
+  📊  <b>Data Analytics & Visualization</b>
   <br>
-  🔬  <b>Analytics</b>
+  💡  <b>IoT Projects</b>
 </p>
 
 ## 🚀 My Skillset & Tools
