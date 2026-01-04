@@ -16,29 +16,16 @@ Actualmente estudiante de Ingenieria Civil en Computación en la PUC, con Major 
   <br>
   </p>
 
-## 🚀 Mis habilidades y herramientas
-
-<p>
-  Tecnologías y herramientas utilizadas:
-</p>
-
-### 💻 Lenguajes de programación
-
+## 🚀  Tecnologías y herramientas utilizadas
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### ✨ Herramientas de desarrollo
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge\&logo=ruby-on-rails\&logoColor=white) </p>
-
-### 📊 Stack de datos y analítica
-
+![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge\&logo=ruby-on-rails\&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
