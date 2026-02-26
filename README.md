@@ -1,22 +1,18 @@
-<h1>¡Hola! Soy Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-Actualmente estudiante de Ingenieria Civil en Computación en la PUC, con Major Computacion y Sistemas de Información y Minor en Data Science and Analytics. 
+<h1>Hi! I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Currently studying Civil Engineering in Computing at PUC, with a major in Computing and Information Systems and a minor in Data Science and Analytics. 
 
 <p>
-  
-  Actualmente estoy buscando oportunidades para participar en proyectos relacionados con estas áreas 🌱:
+  Looking for opportunities to participate in projects related to these areas 🌱:
   <br>
   <br>
-    📊 Big Data / Data Engineering
+    📊 Big Data & Data Engineering
   <br>
   <br>
-    ☁️ HPC /  Distributed Databases
-  <br>
-  <br>
-  💡 <b>Proyectos IoT</b>
+    💡 Databases / Edge Computing / IoT Projects
   <br>
   </p>
 
-## 🚀  Tecnologías y herramientas utilizadas
+## 🚀  Technologies and tools used
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge\&logo=c\&logoColor=white)
@@ -42,13 +38,13 @@ Actualmente estudiante de Ingenieria Civil en Computación en la PUC, con Major 
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-## 🔗 Portafolio
+## 🔗 Website
 
 <p>
   Explora mi sitio web: <a href="https://pedrozavalat.github.io/">pedrozavalat.github.io</a> 
 </p>
 
-## 👋 Contacto
+## 👋 Contact
 
 <p>
   Contáctame vía correo electrónico:
