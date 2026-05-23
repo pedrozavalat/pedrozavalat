@@ -2,15 +2,12 @@
 Currently studying Civil Engineering in Computing at PUC, with a major in Computing and Information Systems and a minor in Data Science and Analytics. 
 
 <p>
-  Looking for opportunities to participate in projects related to these areas 🌱:
-  <br>
-  <br>
-    📊 Big Data & Data Engineering
-  <br>
-  <br>
-    💡 Databases / Edge Computing / IoT Projects
-  <br>
-  </p>
+  Looking for opportunities to participate in projects related to these areas 💡:
+  
+  - Embedding systems
+  - Edge Computing
+  - IoT Projects
+</p>
 
 ## 🚀  Technologies and tools used
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)
