@@ -37,16 +37,14 @@ Currently studying Civil Engineering in Computing at PUC, with a major in Comput
 
 ## 🔗 Website
 
-<p>
-  Explora mi sitio web: <a href="https://pedrozavalat.github.io/">pedrozavalat.github.io</a> 
-</p>
+* <a href="https://pedrozavalat.github.io/">pedrozavalat.github.io</a> 
+
 
 ## 👋 Contact
 
 <p>
-  Contáctame vía correo electrónico:
   <br>
-  📧 pedropablozavalat@uc.cl
+-   📧 pedropablozavalat@uc.cl
   <br>
-  📧 pedropablozavalatejos@gmail.com
+-  📧 pedropablozavalatejos@gmail.com
 </p>
